@@ -1,4 +1,4 @@
-<%@page import="com.beingjavaguys.domain.User"%>
+<%@page import="com.himanshu.domain.User"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
